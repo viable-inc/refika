@@ -560,9 +560,11 @@ header .humburger .text {
   transition: all 0.4s ease-in-out;
 }
 
-header .humburger .text:after {
+/* header .humburger .text:after {
   content: "MENU";
 }
+
+*/
 
 header .humburger:hover {
   text-decoration: none;
